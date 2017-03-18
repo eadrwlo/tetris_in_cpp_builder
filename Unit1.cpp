@@ -14,3 +14,22 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 {
 }
 //---------------------------------------------------------------------------
+void __fastcall TForm1::Timer1Timer(TObject *Sender)
+{
+	figure1->Position->Y += 2;
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::FormKeyDown(TObject *Sender, WORD &Key, System::WideChar &KeyChar,
+          TShiftState Shift)
+{
+	switch( Key )
+	{
+	case VK_LEFT:
+		figure1->Position->X -= 2;
+		break;
+	case VK_RIGHT:
+		figure1->Position->X += 2;
+		break;
+	}
+}
+//---------------------------------------------------------------------------

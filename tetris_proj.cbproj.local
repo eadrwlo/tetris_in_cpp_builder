@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017-03-16 21:54:46.373,=C:\Users\Ja\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017-03-16 21:54:46.765,=C:\Users\Ja\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017-03-16 21:55:41.374,D:\Git_repositories\tetris\Unit1.h=C:\Users\Ja\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017-03-16 21:55:41.374,D:\Git_repositories\tetris\Unit1.fmx=C:\Users\Ja\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2017-03-16 21:55:41.374,D:\Git_repositories\tetris\Unit1.cpp=C:\Users\Ja\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017-03-16 21:55:53.100,D:\Git_repositories\tetris\tetris.h=C:\Users\Ja\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017-03-16 21:56:02.240,D:\Git_repositories\tetris\tetris_proj.cbproj=C:\Users\Ja\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="tetris.h"/>
+    <File Path="tetris_proj.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.fmx"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
